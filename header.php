@@ -47,7 +47,7 @@ if ( ! defined( 'ABSPATH' ) ){
 			'menu_class'        => 'nav nav--main',
 			'menu_id'           => 'primary-menu',
 			'fallback_cb'       => false,
-            'depth'             => 1
+            'depth'             => 2
 		) ); ?>
 	</nav><!-- #site-navigation -->
 
